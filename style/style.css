@@ -7,7 +7,7 @@ body {
     -webkit-linear-gradient(-45deg, rgba(120, 155, 255, 0.9) 25%, rgba(255, 160, 65, 0.9) 76%);
 }
 .shadowtext {
-text-shadow: 1px 3px 2px white, 0 0 1em red;
+text-shadow: 1px 3px 2px white, 0 0 0.5em red;
 color: #210042;
 font-size: 2em;
 }
